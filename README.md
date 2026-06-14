@@ -2,6 +2,8 @@
 
 I build practical AI automation systems, VS Code tooling, and public-safe infrastructure overlays for agent workflows.
 
+I am most interested in roles around AI automation, developer tooling, applied infrastructure, and operator-facing product systems.
+
 Website: [oll4.com](https://oll4.com)
 
 ## Selected Public Work
@@ -17,6 +19,14 @@ Website: [oll4.com](https://oll4.com)
 - VS Code extension development
 - Python and JavaScript automation
 - Public-safe packaging of internal systems and infrastructure overlays
+
+## Core Stack
+
+- Python
+- JavaScript / TypeScript
+- GitHub Actions
+- VS Code extensions
+- local-first agent infrastructure
 
 ## Working Style
 
